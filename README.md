@@ -2,15 +2,23 @@
 FireDragon is a MCBE Server Proxy
 
 # Good things
-**1.** Fast
+**1.** Fast.
 
-**2.** Secure
+**2.** Secure.
 
-**3.** Easy API to write Plugins
+**3.** Easy API to write Plugins.
 
 # FAQ
-- Can i Contribute
+- Can i Contribute?
 > Yes you can.
 
 - With what for Server softwares FireDragon work?
 > It is in planing that it works with **every** software.
+
+- Do you have a Discord?
+> Yes we have [Discord](https://discord.gg/dbBQrNmFFy)
+
+- Do we have a Documentation?
+> Not yet.
+
+**Not joineable yet**
