@@ -16,7 +16,7 @@ FireDragon is a MCBE Server Proxy
 > It is in planing that it works with **every** software.
 
 - Do we have a Discord?
-> Yes we have [Discord](https://discord.gg/dbBQrNmFFy)
+> Yes we have [Discord](https://discord.gg/ScSsnwQ4kW)
 
 - Do we have a Documentation?
 > Not yet.
